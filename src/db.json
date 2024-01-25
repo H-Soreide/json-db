@@ -1,0 +1,16 @@
+{
+  "contacts": [
+      {
+        "id": 123,
+        "name": "Hanne",
+        "phone": 4444444,
+        "self-employed": false
+      },
+      {
+        "id": 1233,
+        "name": "Sofie",
+        "phone": 4444444,
+        "self-employed": true
+      }
+  ]
+}
